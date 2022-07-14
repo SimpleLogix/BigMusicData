@@ -22,7 +22,7 @@ Music is one of the few things that all people can connect over. Whether music i
 - [ ] Recommendation algorithm
 - [ ] Come up with more/better questions
 - [ ] Poster/Presentation template
-- [ ] Analyze data/ answer questions
+- [ ] Answer questions/ Analyze data + plots, graphs, and charts
 - [ ] Final Report
 
 ## Questions to consider:
