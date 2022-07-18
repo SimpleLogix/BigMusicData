@@ -16,8 +16,8 @@ Music is one of the few things that all people can connect over. Whether music i
   - Genre, track length, artist, song name, and album
 
 ## Things to do:
-- [ ] Set up project environement
-- [ ] Normalize data
+- [X] Set up project environement
+- [X] Normalize data
 - [ ] Find which categories/data columns we need 
 - [ ] Recommendation algorithm
 - [ ] Come up with more/better questions
