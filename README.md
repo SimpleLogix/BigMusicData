@@ -16,22 +16,29 @@ Music is one of the few things that all people can connect over. Whether music i
   - Genre, track length, artist, song name, and album
 
 ## Things to do:
-- [X] Set up project environement
-- [X] Normalize data
-- [ ] Find which categories/data columns we need 
+:white_check_mark: Set up project environement
+
+:white_check_mark: Normalize data
+
+:white_check_mark: Find which categories/data columns we need 
+
 - [ ] Recommendation algorithm
-- [ ] Come up with more/better questions
+
+:white_check_mark: Come up with more/better questions
+
 - [ ] Poster/Presentation template
+
 - [ ] Answer questions/ Analyze data + plots, graphs, and charts
+
 - [ ] Final Report
 
 ## Questions to consider:
 
 - Most popular 
-  - Track
-  - Album
-  - Artist
-- Avg playlist size and duration
+  - Track :white_check_mark:
+  - Album 
+  - Artist :white_check_mark:
+- Avg playlist size and duration 
 - % of certain genres within a playlist dataset
   - Look at the variety in playlists
 - Categorize playlists into genres
