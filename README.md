@@ -4,7 +4,8 @@ Research conducted by: Walid Harkous
 
 ## Overview
 For this project, I wanted to look at sampled playlist and music data collected from real people to analyze users’ music-listening habits and the playlists they create. The goal is to compile playlist and song data to generate a list of similar music that listeners can tune in to and expand their tastes. 
-
+<br/><br/>
+More detailed information and results can be found in the Final Report PDF.
 ## What Makes This Interesting?
 Music is one of the few things that all people can connect over. Whether music is being played socially or in private, it's important that people always have fresh music to enjoy listening to. Why spend hours looking for new music when you can have songs recommended based on what you actively enjoy?
 <br/>
